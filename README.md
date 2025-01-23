@@ -30,6 +30,14 @@ A sophisticated Flutter application demonstrating the implementation of the BLoC
   <img src="screenshots/app_demo.gif" alt="StaffSync Demo" width="300"/>
 </p>
 
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" width="250" alt="Dark Counter Screen"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/2.png" width="250" alt="Light Counter Screen"/>
+</p>
 ## Technical Highlights
 
 - Clean Architecture
