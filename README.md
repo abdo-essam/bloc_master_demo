@@ -27,7 +27,7 @@ A sophisticated Flutter application demonstrating the implementation of the BLoC
 ## 📱 App Demo
 
 <p align="center">
-  <img src="screenshots/app_demo.gif" alt="StaffSync Demo" width="300"/>
+  <img src="screenshots/app_demo.gif" alt="Bloc Master Demo" width="300"/>
 </p>
 
 ## Technical Highlights
